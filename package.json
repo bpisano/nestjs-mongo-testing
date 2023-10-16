@@ -1,6 +1,6 @@
 {
   "name": "nestjs-mongo-testing",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A package to use mongodb inside unit tests.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
